@@ -20,3 +20,4 @@ system design -https://www.notion.so/System-Design-288d288d4171800fa408de1fb9880
 devops-https://www.notion.so/DevOps-21fd288d4171805e86f2d66c2d644696
 
 
+react last revision - https://layfirto-7309.notion.site/Last-revise-28bf03b826d7816b9bd3dc639902a6d2
